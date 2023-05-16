@@ -37,6 +37,14 @@ We value your trust in providing us your Personal Information, thus we are striv
 ### Children’s Privacy  
 This Services do not address anyone under the age of 13. We do not knowingly collect personal identifiable information from children under 13. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. If you  are  a  parent  or  guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do necessary actions.  
 
+### Firebase Analytics and Crashlytics
+We use Firebase Analytics to collect data about how our app is used. This data includes general information about your device (like model and operating system), your location (at the city level), how you use our app, and any errors you experience. This data is anonymized and cannot be used to identify you. We use this data to improve our app and provide a better experience for our users.
+
+We also use Firebase Crashlytics to track crashes and errors that occur in our app. When an error occurs, data about the error, along with general information about your device, is sent to us so we can fix the error in future updates. This data is also anonymized and cannot be used to identify you.
+
+### Internet Access
+Our app requires the internet permission to enable certain features like redirecting to rate the app and sending an email. We do not collect or use any personal data in the process of providing these features. Your use of these features is voluntary.
+
 ### Changes to This Privacy Policy  
 We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately, after they are posted on this page.  
 
