@@ -1,9 +1,4 @@
-# silentsymphony-privacy
-<div style="overflow-x: scroll; white-space: nowrap;">
-  <img src="https://github.com/dev3win/silentsymphony-privacy/blob/main/Screenshots/bottom-player.jpg" alt="Bottom Player" style="display: inline-block; width: 200px;">
-  <img src="https://github.com/dev3win/silentsymphony-privacy/blob/main/Screenshots/compose.jpg" alt="Compose" style="display: inline-block; width: 200px;">
-  <img src="https://github.com/dev3win/silentsymphony-privacy/blob/main/Screenshots/custom-time.jpg" alt="Custom Time" style="display: inline-block; width: 200px;">
-  <img src="https://github.com/dev3win/silentsymphony-privacy/blob/main/Screenshots/fullpage-player.jpg" alt="Full Page Player" style="display: inline-block; width: 200px;">
-  <img src="https://github.com/dev3win/silentsymphony-privacy/blob/main/Screenshots/reset-data.jpg" alt="Reset Data" style="display: inline-block; width: 200px;">
-  <img src="https://github.com/dev3win/silentsymphony-privacy/blob/main/Screenshots/set-time.jpg" alt="Set Time" style="display: inline-block; width: 200px;">
+<div align="center">
+  <img src="https://github.com/dev3win/dev3win.github.io/blob/main/silentsymphony/icons/Icon-512.png" width="100px" alt="Logo" style="margin-bottom: 20px;">
+  <h1 style="margin-top: 20px;">SilentSymphony - Focus & Relax</h1>
 </div>
